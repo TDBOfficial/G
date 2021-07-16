@@ -9,7 +9,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 1
+          "Price": -10000
         }
       ],
       "GiftDrops": [
@@ -17,7 +17,7 @@
           "GiftDropId": 613,
           "FriendlyName": "Mobster (Fashion)",
           "Tooltip": "",
-          "AvatarItemDesc": "529015c7-3b4a-4a73-b2c3-33103339b6e3,e821aa74-2d47-4388-bcfb-1893b8a83a52,529015c7-3b4a-4a73-b2c3-33103339b6e3,",
+          "AvatarItemDesc": "40528de7-38a3-4a7c-8f93-6d3bfa5573f2,8377ab96-c908-457f-9fee-b784c9a759f3,40528de7-38a3-4a7c-8f93-6d3bfa5573f2,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -36,7 +36,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 1
+          "Price": -10000
         }
       ],
       "GiftDrops": [
@@ -44,7 +44,7 @@
           "GiftDropId": 614,
           "FriendlyName": "Keep Warm Hat (Pink,Brown)",
           "Tooltip": "",
-          "AvatarItemDesc": "ecc1dbe6-ca06-4564-b2a6-30956194d1e9,0809a5cf-a0f3-4614-9f98-71518524518a,ecc1dbe6-ca06-4564-b2a6-30956194d1e9,",
+          "AvatarItemDesc": "40528de7-38a3-4a7c-8f93-6d3bfa5573f2,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -63,7 +63,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 10
+          "Price": -10000
         }
       ],
       "GiftDrops": [
@@ -71,7 +71,7 @@
           "GiftDropId": 615,
           "FriendlyName": "Steampunk Vest (Red)",
           "Tooltip": "",
-          "AvatarItemDesc": "ec836d2a-b1b8-4566-b8eb-123ae2845956,cea53c7f-24a9-4e3b-80b9-fbf95738f973,ec836d2a-b1b8-4566-b8eb-123ae2845956,",
+          "AvatarItemDesc": "2faa26b6-f7c3-4b0d-8f70-1f9454e64a54,6584dada-499e-4d7c-958d-466955b20640,2faa26b6-f7c3-4b0d-8f70-1f9454e64a54,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -90,7 +90,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 10
+          "Price": -10000
         }
       ],
       "GiftDrops": [
@@ -98,7 +98,7 @@
           "GiftDropId": 1163,
           "FriendlyName": "Keep Warm Hat (White,Pink)",
           "Tooltip": "",
-          "AvatarItemDesc": "ec836d2a-b1b8-4566-b8eb-123ae2845956,e37b07d1-6b9d-49b9-94ca-1c728e228cfe,ec836d2a-b1b8-4566-b8eb-123ae2845956,",
+          "AvatarItemDesc": "2faa26b6-f7c3-4b0d-8f70-1f9454e64a54,48c18418-01dd-40ff-9dfe-c4cf5f4e1245,2faa26b6-f7c3-4b0d-8f70-1f9454e64a54,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -117,7 +117,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 10
+          "Price": -10000
         }
       ],
       "GiftDrops": [
@@ -125,7 +125,7 @@
           "GiftDropId": 689,
           "FriendlyName": "Mobster Suit (Fashion)",
           "Tooltip": "",
-          "AvatarItemDesc": "ec836d2a-b1b8-4566-b8eb-123ae2845956,8c74ee27-3d56-401b-8a8c-7868a80770e8,ec836d2a-b1b8-4566-b8eb-123ae2845956,",
+          "AvatarItemDesc": "2faa26b6-f7c3-4b0d-8f70-1f9454e64a54,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -144,7 +144,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 10
+          "Price": -10000
         }
       ],
       "GiftDrops": [
@@ -152,7 +152,7 @@
           "GiftDropId": 1166,
           "FriendlyName": "Keep Warm Winter Scarf (Pink,Brown)",
           "Tooltip": "",
-          "AvatarItemDesc": "bb54e0e9-5d90-41f3-94c0-8e82f1791af1,,,",
+          "AvatarItemDesc": "5a38f864-7d1c-4989-8558-40b9668f78ef,61ff7a02-50ff-49ea-b95e-c31b95a30c8e,5a38f864-7d1c-4989-8558-40b9668f78ef,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -171,7 +171,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 10
+          "Price": -10000
         }
       ],
       "GiftDrops": [
@@ -179,7 +179,7 @@
           "GiftDropId": 1164,
           "FriendlyName": "Bunny Ears (Pink)",
           "Tooltip": "",
-          "AvatarItemDesc": "bb54e0e9-5d90-41f3-94c0-8e82f1791af1,891d902e-3257-4a8c-9001-858046007997,bb54e0e9-5d90-41f3-94c0-8e82f1791af1,",
+          "AvatarItemDesc": "5a38f864-7d1c-4989-8558-40b9668f78ef,d8d490aa-7088-4163-9305-1441367f490c,5a38f864-7d1c-4989-8558-40b9668f78ef,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -198,7 +198,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 10
+          "Price": -10000
         }
       ],
       "GiftDrops": [
@@ -206,7 +206,7 @@
           "GiftDropId": 717,
           "FriendlyName": "Keep Warm Set Scarf (White,Pink)",
           "Tooltip": "",
-          "AvatarItemDesc": "bb54e0e9-5d90-41f3-94c0-8e82f1791af1,4c26d1e7-2382-4478-b9c4-a068ed01a607,bb54e0e9-5d90-41f3-94c0-8e82f1791af1,",
+          "AvatarItemDesc": "5a38f864-7d1c-4989-8558-40b9668f78ef,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -225,7 +225,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 10
+          "Price": -10000
         }
       ],
       "GiftDrops": [
@@ -233,7 +233,7 @@
           "GiftDropId": 600,
           "FriendlyName": "Mobster Cuffs (Fashion)",
           "Tooltip": "",
-          "AvatarItemDesc": "18feb3c2-049f-4f91-9f4e-6b5fcb4ab70c,,,",
+          "AvatarItemDesc": "2b2eb9e5-d52e-4004-bdb2-0bcf6910992d,827a1538-51bb-4fef-99c1-7f1bebd9866c,2b2eb9e5-d52e-4004-bdb2-0bcf6910992d,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -252,7 +252,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 10
+          "Price": -10000
         }
       ],
       "GiftDrops": [
@@ -260,7 +260,7 @@
           "GiftDropId": 68,
           "FriendlyName": "Keep Warm Winter Sweater (Pink,Brown)",
           "Tooltip": "",
-          "AvatarItemDesc": "18feb3c2-049f-4f91-9f4e-6b5fcb4ab70c,565c17e0-496d-45bd-a2c3-564e118c06cc,18feb3c2-049f-4f91-9f4e-6b5fcb4ab70c,",
+          "AvatarItemDesc": "2b2eb9e5-d52e-4004-bdb2-0bcf6910992d,c5884778-a87f-4612-9717-86fbb65d440f,2b2eb9e5-d52e-4004-bdb2-0bcf6910992d,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -279,7 +279,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 10
+          "Price": -10000
         }
       ],
       "GiftDrops": [
@@ -287,7 +287,7 @@
           "GiftDropId": 1168,
           "FriendlyName": "Space Visor (Red, White)",
           "Tooltip": "",
-          "AvatarItemDesc": "18feb3c2-049f-4f91-9f4e-6b5fcb4ab70c,b6c25a3b-125b-4aab-bed0-e6e5ced2c21c,18feb3c2-049f-4f91-9f4e-6b5fcb4ab70c,",
+          "AvatarItemDesc": "2b2eb9e5-d52e-4004-bdb2-0bcf6910992d,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -306,7 +306,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 10
+          "Price": -10000
         }
       ],
       "GiftDrops": [
@@ -314,7 +314,7 @@
           "GiftDropId": 686,
           "FriendlyName": "Keep Warm Set Sweater (White,Pink)",
           "Tooltip": "",
-          "AvatarItemDesc": "5e3929d3-d291-4e91-a0ba-2ef203e407d3,,,",
+          "AvatarItemDesc": "5e3929d3-d291-4e91-a0ba-2ef203e407d3,0ba92db2-690a-44ce-92f4-130e9503b6c1,5e3929d3-d291-4e91-a0ba-2ef203e407d3,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -333,7 +333,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 10
+          "Price": -10000
         }
       ],
       "GiftDrops": [
