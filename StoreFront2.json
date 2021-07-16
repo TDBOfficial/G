@@ -3,7 +3,7 @@
   "NextUpdate": "2021-05-27T04:44:16.8841991+10:00",
   "StoreItems": [
     {
-      "PurchasableItemId": 500,
+      "PurchasableItemId": 567,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -14,7 +14,7 @@
       ],
       "GiftDrops": [
         {
-          "GiftDropId": 500,
+          "GiftDropId": 567,
           "FriendlyName": "IDK",
           "Tooltip": "",
           "AvatarItemDesc": "why",
