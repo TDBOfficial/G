@@ -9,7 +9,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 100
+          "Price": 0
         }
       ],
       "GiftDrops": [
@@ -30,18 +30,18 @@
       ]
     },
     {
-      "PurchasableItemId": 8232325858,
+      "PurchasableItemId": 201,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 800
+          "Price": 0
         }
       ],
       "GiftDrops": [
         {
-          "GiftDropId": 8232325858,
+          "GiftDropId": 201,
           "FriendlyName": "test",
           "Tooltip": "",
           "AvatarItemDesc": "8",
