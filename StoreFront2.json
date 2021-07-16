@@ -9,7 +9,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 5
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -36,7 +36,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 10
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -44,7 +44,7 @@
           "GiftDropId": 614,
           "FriendlyName": "Keep Warm Hat (Pink,Brown)",
           "Tooltip": "",
-          "AvatarItemDesc": "cea5c141-32d8-4dae-80d9-6fb74834a79c,,,",
+          "AvatarItemDesc": "ecc1dbe6-ca06-4564-b2a6-30956194d1e9,0809a5cf-a0f3-4614-9f98-71518524518a,ecc1dbe6-ca06-4564-b2a6-30956194d1e9,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
