@@ -3,7 +3,7 @@
   "NextUpdate": "2021-05-27T04:44:16.8841991+10:00",
   "StoreItems": [
     {
-      "PurchasableItemId": 704,
+      "PurchasableItemId": 1,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "PurchasableItemId": 707,
+      "PurchasableItemId": 2,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "PurchasableItemId": 706,
+      "PurchasableItemId": 3,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "PurchasableItemId": 708,
+      "PurchasableItemId": 4,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "PurchasableItemId": 705,
+      "PurchasableItemId": 5,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "PurchasableItemId": 697,
+      "PurchasableItemId": 6,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "PurchasableItemId": 479,
+      "PurchasableItemId": 7,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "PurchasableItemId": 480,
+      "PurchasableItemId": 8,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "PurchasableItemId": 481,
+      "PurchasableItemId": 9,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "PurchasableItemId": 575,
+      "PurchasableItemId": 10,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "PurchasableItemId": 785,
+      "PurchasableItemId": 11,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -300,7 +300,7 @@
       ]
     },
     {
-      "PurchasableItemId": 443,
+      "PurchasableItemId": 12,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -311,7 +311,7 @@
       ],
       "GiftDrops": [
         {
-          "GiftDropId": 36,
+          "GiftDropId": 13,
           "FriendlyName": "Sea Captain Beard",
           "Tooltip": "",
           "AvatarItemDesc": "c161dc73-6ce3-49c4-8d15-45e6911f84e4,,,",
