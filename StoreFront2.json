@@ -3,7 +3,7 @@
   "NextUpdate": "2021-05-27T04:44:16.8841991+10:00",
   "StoreItems": [
     {
-      "PurchasableItemId": 567,
+      "PurchasableItemId": 200,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -14,7 +14,7 @@
       ],
       "GiftDrops": [
         {
-          "GiftDropId": 567,
+          "GiftDropId": 200,
           "FriendlyName": "IDK",
           "Tooltip": "",
           "AvatarItemDesc": "why",
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "PurchasableItemId": 707,
+      "PurchasableItemId": 8232325858,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -41,10 +41,10 @@
       ],
       "GiftDrops": [
         {
-          "GiftDropId": 707,
-          "FriendlyName": "Rec Room Hoodie (Grey)",
+          "GiftDropId": 8232325858,
+          "FriendlyName": "test",
           "Tooltip": "",
-          "AvatarItemDesc": "b6rLwzD4NkKV7xKn9ZYVkA,JTgXKeT7w0K2Mw4Jk2HCqg,oHKhT-GTx0iFWrrlz9s6Tw,",
+          "AvatarItemDesc": "8",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
