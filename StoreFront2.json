@@ -9,7 +9,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 800
+          "Price": 100
         }
       ],
       "GiftDrops": [
@@ -17,7 +17,7 @@
           "GiftDropId": 500,
           "FriendlyName": "IDK",
           "Tooltip": "",
-          "AvatarItemDesc": "b6rLwzD4NkKV7xKn9ZYVkA,,,",
+          "AvatarItemDesc": "why",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
