@@ -285,7 +285,7 @@
       "GiftDrops": [
         {
           "GiftDropId": 1168,
-          "FriendlyName": "#1 Birthday Shirt",
+          "FriendlyName": "Unreleased Birthday Shirt",
           "Tooltip": "",
           "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,922f229c-124f-4f07-b4e3-19138420ca19,d0a9262f-5504-46a7-bb10-7507503db58e,ceb07e4f-50a9-4ed0-b50b-c59d92ba66b5",
           "ConsumableItemDesc": "",
@@ -312,9 +312,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 686,
-          "FriendlyName": "Poofy Dress",
+          "FriendlyName": "Helixx Recolor",
           "Tooltip": "",
-          "AvatarItemDesc": "a302741d-313b-4682-82e5-ac76764e662c,,,",
+          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,922f229c-124f-4f07-b4e3-19138420ca19,d0a9262f-5504-46a7-bb10-7507503db58e,49934059-cc45-46ce-8277-f96959e1f6ba",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
