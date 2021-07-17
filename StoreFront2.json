@@ -1,6 +1,6 @@
 {
   "StorefrontType": 2,
-  "NextUpdate": "2021-07-17T18:07:59.5868996+10:00",
+  "NextUpdate": "2021-05-27T18:07:59.5868996+10:00",
   "StoreItems": [
     {
       "PurchasableItemId": 613,
@@ -15,9 +15,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 613,
-          "FriendlyName": "i forgor...",
+          "FriendlyName": "Bishop Hair",
           "Tooltip": "",
-          "AvatarItemDesc": "11e508a7-fe7d-470e-b270-2dba33e2f7a1,,,",
+          "AvatarItemDesc": "b861e5f3-fc6d-43b3-9861-c1b45cb493a8,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -42,9 +42,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 614,
-          "FriendlyName": "iforgor...",
+          "FriendlyName": "Saija Gloves",
           "Tooltip": "",
-          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,5e7a48ed-8f08-4990-a3ae-05722c9f59a8,d0a9262f-5504-46a7-bb10-7507503db58e,237e0aa2-5911-4704-8d2a-d446ddd2d842",
+          "AvatarItemDesc": "50c9c6f8-2963-4ef3-95d5-e999a898269f,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -69,9 +69,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 615,
-          "FriendlyName": "i forgor...",
+          "FriendlyName": "Bishop Gloves",
           "Tooltip": "",
-          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,922f229c-124f-4f07-b4e3-19138420ca19,d0a9262f-5504-46a7-bb10-7507503db58e,ceb07e4f-50a9-4ed0-b50b-c59d92ba66b5",
+          "AvatarItemDesc": "abc25091-ed5f-4c72-9364-fffeef1bc239,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -96,9 +96,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 1163,
-          "FriendlyName": "i forgor...",
+          "FriendlyName": "Saija Helmet",
           "Tooltip": "",
-          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,f8635fe2-90bc-42c8-9bbe-3387b5157e18,d0a9262f-5504-46a7-bb10-7507503db58e,49934059-cc45-46ce-8277-f96959e1f6ba",
+          "AvatarItemDesc": "274cb9b2-2f59-47ea-9a8d-a5b656d148c6,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -123,9 +123,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 689,
-          "FriendlyName": "i forgor...",
+          "FriendlyName": "Bishop Attire",
           "Tooltip": "",
-          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,14afd295-bcd0-4595-80dc-d477618b9ab9,d0a9262f-5504-46a7-bb10-7507503db58e,a74e6c0d-1300-4928-9141-977a711b71c4",
+          "AvatarItemDesc": "6930ce13-4be4-4ab9-9817-667bd261ffc3,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -150,9 +150,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 1166,
-          "FriendlyName": "i forgor...",
+          "FriendlyName": "Saija Attire",
           "Tooltip": "",
-          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,5864d23d-1a86-40a6-a52c-46ee670e4508,d0a9262f-5504-46a7-bb10-7507503db58e,167ba0d4-4fac-4143-b5ae-1dbd8e02dc76",
+          "AvatarItemDesc": "2c679f89-c76e-4cfb-94e9-448c8fd44d55,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -179,7 +179,7 @@
           "GiftDropId": 1164,
           "FriendlyName": "Hockey Jersey",
           "Tooltip": "",
-          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,,,",
+          "AvatarItemDesc": "2c679f89-c76e-4cfb-94e9-448c8fd44d55,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -260,7 +260,7 @@
           "GiftDropId": 68,
           "FriendlyName": "Hockey Jersey",
           "Tooltip": "",
-          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,d5efaf80-7f34-4c9a-bc3a-b80b1ac70ace,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
+          "AvatarItemDesc": "8d703940-224a-4b0c-a04d-f365550071e1,d5efaf80-7f34-4c9a-bc3a-b80b1ac70ace,8d703940-224a-4b0c-a04d-f365550071e1,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -285,9 +285,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 1168,
-          "FriendlyName": "Swatch Testing",
-          "Tooltip": "this shit is like sex in video game form if it works",
-          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,69sexsex-7f34-4c9a-bc3a-sex1sexsexsex,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
+          "FriendlyName": "Poofy Dress?",
+          "Tooltip": "",
+          "AvatarItemDesc": "a302741d-313b-4682-82e5-ac76764e662c,64850553-cdfe-455a-ac00-dafbe63d613e,a302741d-313b-4682-82e5-ac76764e662c,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -300,7 +300,7 @@
       ]
     },
     {
-      "PurchasableItemId": 1154,
+      "PurchasableItemId": 686,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -311,14 +311,14 @@
       ],
       "GiftDrops": [
         {
-          "GiftDropId": 1154,
-          "FriendlyName": "i forgor",
+          "GiftDropId": 686,
+          "FriendlyName": "Poofy Dress?",
           "Tooltip": "",
-          "AvatarItemDesc": "11e508a7-fe7d-470e-b270-2dba33e2f7a1,,,",
+          "AvatarItemDesc": "a302741d-313b-4682-82e5-ac76764e662c,31ac9d4d-3d6b-48f2-85d5-dc4b8165a17a,a302741d-313b-4682-82e5-ac76764e662c,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
-          "Rarity": 30,
+          "Rarity": 50,
           "IsQuery": false,
           "Unique": false,
           "Level": 1,
