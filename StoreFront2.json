@@ -179,7 +179,7 @@
           "GiftDropId": 1164,
           "FriendlyName": "Hockey Jersey",
           "Tooltip": "",
-          "AvatarItemDesc": "2c679f89-c76e-4cfb-94e9-448c8fd44d55,,,",
+          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -204,7 +204,7 @@
       "GiftDrops": [
         {
           "GiftDropId": 717,
-          "FriendlyName": "DNB",
+          "FriendlyName": "Hockey Jersey",
           "Tooltip": "",
           "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,fcbdfbfd-254a-4538-b119-43e23404b8b5,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
           "ConsumableItemDesc": "",
@@ -231,7 +231,7 @@
       "GiftDrops": [
         {
           "GiftDropId": 600,
-          "FriendlyName": "DNB1",
+          "FriendlyName": "Hockey Jersey",
           "Tooltip": "",
           "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,b1ea158d-1663-4db1-bb09-9847f6e9d1e6,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
           "ConsumableItemDesc": "",
@@ -260,7 +260,7 @@
           "GiftDropId": 68,
           "FriendlyName": "Hockey Jersey",
           "Tooltip": "",
-          "AvatarItemDesc": "8d703940-224a-4b0c-a04d-f365550071e1,d5efaf80-7f34-4c9a-bc3a-b80b1ac70ace,8d703940-224a-4b0c-a04d-f365550071e1,",
+          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,d5efaf80-7f34-4c9a-bc3a-b80b1ac70ace,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
