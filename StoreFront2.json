@@ -287,7 +287,7 @@
           "GiftDropId": 1168,
           "FriendlyName": "SVVRCC Recolor",
           "Tooltip": "",
-          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,c0ff7719-c56a-4934-831b-506ad0f51cca,d0a9262f-5504-46a7-bb10-7507503db58e,a74e6c0d-1300-4928-9141-977a711b71c4",
+          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,a5925738-a451-4f25-b622-ccbfa12bd88c,d0a9262f-5504-46a7-bb10-7507503db58e,a74e6c0d-1300-4928-9141-977a711b71c4",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -312,9 +312,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 686,
-          "FriendlyName": "Helixx Recolor",
+          "FriendlyName": "Class of 2016 Recolor",
           "Tooltip": "",
-          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,a5925738-a451-4f25-b622-ccbfa12bd88c,d0a9262f-5504-46a7-bb10-7507503db58e,49934059-cc45-46ce-8277-f96959e1f6ba",
+          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,a5925738-a451-4f25-b622-ccbfa12bd88c,d0a9262f-5504-46a7-bb10-7507503db58e,167ba0d4-4fac-4143-b5ae-1dbd8e02dc76",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
