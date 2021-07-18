@@ -285,9 +285,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 1168,
-          "FriendlyName": "SVVRCC Shirt",
+          "FriendlyName": "SVVRCC Recolor",
           "Tooltip": "",
-          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,14afd295-bcd0-4595-80dc-d477618b9ab9,d0a9262f-5504-46a7-bb10-7507503db58e,a74e6c0d-1300-4928-9141-977a711b71c4",
+          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,c0ff7719-c56a-4934-831b-506ad0f51cca,d0a9262f-5504-46a7-bb10-7507503db58e,a74e6c0d-1300-4928-9141-977a711b71c4",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -314,7 +314,7 @@
           "GiftDropId": 686,
           "FriendlyName": "Helixx Recolor",
           "Tooltip": "",
-          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,f8635fe2-90bc-42c8-9bbe-3387b5157e18,d0a9262f-5504-46a7-bb10-7507503db58e,49934059-cc45-46ce-8277-f96959e1f6ba",
+          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,a5925738-a451-4f25-b622-ccbfa12bd88c,d0a9262f-5504-46a7-bb10-7507503db58e,49934059-cc45-46ce-8277-f96959e1f6ba",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
