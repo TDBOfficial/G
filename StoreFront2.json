@@ -1,23 +1,23 @@
 {
   "StorefrontType": 2,
-  "NextUpdate": "2021-07-17T11:38:37+00:00",
+  "NextUpdate": "2021-05-27T18:07:59.5868996+10:00",
   "StoreItems": [
     {
-      "PurchasableItemId": 666,
+      "PurchasableItemId": 613,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 10
+          "Price": 2
         }
       ],
       "GiftDrops": [
         {
-          "GiftDropId": 666,
-          "FriendlyName": "Mobster (Fashion)",
+          "GiftDropId": 613,
+          "FriendlyName": "Bishop Hair",
           "Tooltip": "",
-          "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,K3NCuD1S506HFmkIMM_2Lw,P12CUkIg8EuFihGQsvPlxg,",
+          "AvatarItemDesc": "b861e5f3-fc6d-43b3-9861-c1b45cb493a8,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -30,21 +30,21 @@
       ]
     },
     {
-      "PurchasableItemId": 1148,
+      "PurchasableItemId": 614,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 900
+          "Price": 1
         }
       ],
       "GiftDrops": [
         {
-          "GiftDropId": 1148,
-          "FriendlyName": "Keep Warm Hat (Pink,Brown)",
+          "GiftDropId": 614,
+          "FriendlyName": "Saija Gloves",
           "Tooltip": "",
-          "AvatarItemDesc": "24c4404a-839f-46bd-98b6-6848d747a98b,713781e5-ce47-41c6-a24f-94d42a565e30,,",
+          "AvatarItemDesc": "50c9c6f8-2963-4ef3-95d5-e999a898269f,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -63,15 +63,15 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 900
+          "Price": 1
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 615,
-          "FriendlyName": "Steampunk Vest (Red)",
+          "FriendlyName": "Bishop Gloves",
           "Tooltip": "",
-          "AvatarItemDesc": "E9VTiIVFPEa-OuQRto0e_Q,Yr0mF1EWzEaIyRMOWFiY6w,,",
+          "AvatarItemDesc": "abc25091-ed5f-4c72-9364-fffeef1bc239,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -90,15 +90,15 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 900
+          "Price": 1
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 1163,
-          "FriendlyName": "Keep Warm Hat (White,Pink)",
+          "FriendlyName": "Saija Helmet",
           "Tooltip": "",
-          "AvatarItemDesc": "24c4404a-839f-46bd-98b6-6848d747a98b,c1e430c5-fd8d-4032-9e3f-8d87cc8784da,,",
+          "AvatarItemDesc": "274cb9b2-2f59-47ea-9a8d-a5b656d148c6,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -117,15 +117,15 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 10000
+          "Price": 1
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 689,
-          "FriendlyName": "Mobster Suit (Fashion)",
+          "FriendlyName": "Bishop Attire",
           "Tooltip": "",
-          "AvatarItemDesc": "4308da04-af84-40bb-845a-7a9e1a2726ec,46970903-9799-4d25-b90a-7162c1f5dbef,c2052d8c-fbcd-4462-8f08-bcf5b3dfde2f,",
+          "AvatarItemDesc": "6930ce13-4be4-4ab9-9817-667bd261ffc3,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -144,15 +144,15 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 700
+          "Price": 1
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 1166,
-          "FriendlyName": "Keep Warm Winter Scarf (Pink,Brown)",
+          "FriendlyName": "Saija Attire",
           "Tooltip": "",
-          "AvatarItemDesc": "e15b13a7-9e9a-4b32-ba2c-0cb31ed55a8c,713781e5-ce47-41c6-a24f-94d42a565e30,,",
+          "AvatarItemDesc": "2c679f89-c76e-4cfb-94e9-448c8fd44d55,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -165,21 +165,21 @@
       ]
     },
     {
-      "PurchasableItemId": 1164,
+      "PurchasableItemId": 1165,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 4000
+          "Price": 1
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 1164,
-          "FriendlyName": "Bunny Ears (Pink)",
+          "FriendlyName": "Hockey Jersey",
           "Tooltip": "",
-          "AvatarItemDesc": "71fd5353-b439-4a23-b471-bfb99b8154d7,97938f4c-52b8-4c85-8575-856654666316,,",
+          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -198,15 +198,15 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 700
+          "Price": 1
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 717,
-          "FriendlyName": "Keep Warm Set Scarf (White,Pink)",
+          "FriendlyName": "Hockey Jersey",
           "Tooltip": "",
-          "AvatarItemDesc": "e15b13a7-9e9a-4b32-ba2c-0cb31ed55a8c,c1e430c5-fd8d-4032-9e3f-8d87cc8784da,,",
+          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,fcbdfbfd-254a-4538-b119-43e23404b8b5,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -225,15 +225,15 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 5000
+          "Price": 1
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 600,
-          "FriendlyName": "Mobster Cuffs (Fashion)",
+          "FriendlyName": "Hockey Jersey",
           "Tooltip": "",
-          "AvatarItemDesc": "08d56627-4500-4724-8692-a23c96ddb3ec,46970903-9799-4d25-b90a-7162c1f5dbef,05cff8b8-d437-485a-b4b8-41d35becd022,",
+          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,d5efaf80-7f34-4c9a-bc3a-b80b1ac70ace,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -252,15 +252,15 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 800
+          "Price": 1
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 68,
-          "FriendlyName": "Keep Warm Winter Sweater (Pink,Brown)",
+          "FriendlyName": "Hockey Jersey Recolor",
           "Tooltip": "",
-          "AvatarItemDesc": "3757149b-f478-4975-81e5-d808a1bed8d5,713781e5-ce47-41c6-a24f-94d42a565e30,,",
+          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,922f229c-124f-4f07-b4e3-19138420ca19,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -279,15 +279,15 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 9000
+          "Price": 1
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 1168,
-          "FriendlyName": "Space Visor (Red, White)",
+          "FriendlyName": "Supreme",
           "Tooltip": "",
-          "AvatarItemDesc": "b89be768-a169-4b24-8022-751e7b817865,5864d23d-1a86-40a6-a52c-46ee670e4508,uB4gFxfrh0W5OtkmZdFN1Q,",
+          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,f8635fe2-90bc-42c8-9bbe-3387b5157e18,d0a9262f-5504-46a7-bb10-7507503db58e,0c496f32-0011-4c4d-9778-59446f70c032",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -306,46 +306,19 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 800
+          "Price": 1
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 686,
-          "FriendlyName": "Keep Warm Set Sweater (White,Pink)",
+          "FriendlyName": "lol",
           "Tooltip": "",
-          "AvatarItemDesc": "3757149b-f478-4975-81e5-d808a1bed8d5,c1e430c5-fd8d-4032-9e3f-8d87cc8784da,,",
+          "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,K3NCuD1S506HFmkIMM_2Lw,P12CUkIg8EuFihGQsvPlxg,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
           "Rarity": 50,
-          "IsQuery": false,
-          "Unique": false,
-          "Level": 1,
-          "Context": 100010
-        }
-      ]
-    },
-    {
-      "PurchasableItemId": 1154,
-      "Type": 0,
-      "IsFeatured": false,
-      "Prices": [
-        {
-          "CurrencyType": 2,
-          "Price": 200
-        }
-      ],
-      "GiftDrops": [
-        {
-          "GiftDropId": 1154,
-          "FriendlyName": "Winter Gloves (Pink)",
-          "Tooltip": "",
-          "AvatarItemDesc": "3a790be3-2937-44d4-be01-b5d65353bd3d,c1e430c5-fd8d-4032-9e3f-8d87cc8784da,,",
-          "ConsumableItemDesc": "",
-          "EquipmentPrefabName": "",
-          "EquipmentModificationGuid": "",
-          "Rarity": 30,
           "IsQuery": false,
           "Unique": false,
           "Level": 1,
