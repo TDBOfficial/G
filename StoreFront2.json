@@ -204,13 +204,12 @@
       "GiftDrops": [
         {
           "GiftDropId": 717,
-          "FriendlyName": "5,000,000 Tokens",
+          "FriendlyName": "Empty",
           "Tooltip": "",
           "AvatarItemDesc": "",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
-          "Currency": 5000000
           "Rarity": 30,
           "IsQuery": false,
           "Unique": false,
