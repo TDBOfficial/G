@@ -312,12 +312,11 @@
       "GiftDrops": [
         {
           "GiftDropId": 686,
-          "FriendlyName": "25 Million XP",
+          "FriendlyName": "White Hat",
           "Tooltip": "",
-          "AvatarItemDesc": "",
+          "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,K3NCuD1S506HFmkIMM_2Lw,P12CUkIg8EuFihGQsvPlxg",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
-          "Xp": 25000000000
           "EquipmentModificationGuid": "",
           "Rarity": 50,
           "IsQuery": false,
