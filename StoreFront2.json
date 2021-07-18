@@ -258,9 +258,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 68,
-          "FriendlyName": "Hockey Jersey Recolor",
+          "FriendlyName": "Hockey Jersey",
           "Tooltip": "",
-          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,4a85c181-92fe-47a5-925e-05f0ccb25006,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
+          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,d5efaf80-7f34-4c9a-bc3a-b80b1ac70ace,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
