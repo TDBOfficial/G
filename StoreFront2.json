@@ -231,9 +231,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 600,
-          "FriendlyName": "Hockey Jersey",
+          "FriendlyName": "Hockey Jersey Recolor",
           "Tooltip": "",
-          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,nLRxEIBhUkyQsfrk3nzsDA,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
+          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,4d52bbd6-ef74-45ae-a6c2-bde10ab8eb16,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -260,7 +260,7 @@
           "GiftDropId": 68,
           "FriendlyName": "Hockey Jersey Recolor",
           "Tooltip": "",
-          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,jna5wcWK90WokJyoeJH1iw,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
+          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,f8635fe2-90bc-42c8-9bbe-3387b5157e18,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
