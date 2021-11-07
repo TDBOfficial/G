@@ -176,10 +176,10 @@
       ],
       "GiftDrops": [
         {
-          "GiftDropId": 1164,
+          "GiftDropId": 1166,
           "FriendlyName": "Black Hat",
           "Tooltip": "",
-          "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,8XajS2adOEOqzqnLy6-zcQ,P12CUkIg8EuFihGQsvPlxg,",
+          "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,K3NCuD1S506HFmkIMM_2Lw,P12CUkIg8EuFihGQsvPlxg,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -233,7 +233,7 @@
           "GiftDropId": 600,
           "FriendlyName": "White Hat",
           "Tooltip": "",
-          "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,MD9ZIkLAdk2Zs14wF6RB3w,P12CUkIg8EuFihGQsvPlxg,,",
+          "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,8XajS2adOEOqzqnLy6-zcQ,P12CUkIg8EuFihGQsvPlxg,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -257,7 +257,7 @@
       ],
       "GiftDrops": [
         {
-          "GiftDropId": 68,
+          "GiftDropId": 69292,
           "FriendlyName": "Dev Shirt",
           "Tooltip": "",
           "AvatarItemDesc": "7a730848-ab20-445d-b416-1a72cab49324,,,",
