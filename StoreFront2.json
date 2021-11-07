@@ -9,7 +9,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 0
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -36,7 +36,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 0
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -63,7 +63,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 0
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -90,7 +90,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 0
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -117,7 +117,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 0
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -144,7 +144,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 0
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -171,15 +171,15 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 0
+          "Price": 1
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 1164,
-          "FriendlyName": "Hockey Jersey Recolor",
+          "FriendlyName": "Black Hat",
           "Tooltip": "",
-          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,5e7a48ed-8f08-4990-a3ae-05722c9f59a8,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
+          "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,8XajS2adOEOqzqnLy6-zcQ,P12CUkIg8EuFihGQsvPlxg,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -198,7 +198,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 0
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -225,15 +225,15 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 0
+          "Price": 1
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 600,
-          "FriendlyName": "empty",
+          "FriendlyName": "White Hat",
           "Tooltip": "",
-          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,f8635fe2-90bc-42c8-9bbe-3387b5157e18,d0a9262f-5504-46a7-bb10-7507503db58e,75162f12-44e7-499f-bc6c-9b0612e9164b",
+          "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,MD9ZIkLAdk2Zs14wF6RB3w,P12CUkIg8EuFihGQsvPlxg,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -252,15 +252,15 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 0
+          "Price": 1
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 68,
-          "FriendlyName": "empty",
+          "FriendlyName": "Dev Shirt",
           "Tooltip": "",
-          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,f8635fe2-90bc-42c8-9bbe-3387b5157e18,d0a9262f-5504-46a7-bb10-7507503db58e,75162f12-44e7-499f-bc6c-9b0612e9164b",
+          "AvatarItemDesc": "7a730848-ab20-445d-b416-1a72cab49324,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -279,7 +279,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 0
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -306,7 +306,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 0
+          "Price": 1
         }
       ],
       "GiftDrops": [
