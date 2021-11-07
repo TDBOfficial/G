@@ -204,9 +204,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 717,
-          "FriendlyName": "Happy Trees Shirt",
+          "FriendlyName": "DevShirt",
           "Tooltip": "",
-          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,ba6b6e1a-a09a-4ba0-9523-552869f03336,d0a9262f-5504-46a7-bb10-7507503db58e,d461ca71-45c9-415e-8e09-ba93e8d73450",
+          "AvatarItemDesc": "7a730848-ab20-445d-b416-1a72cab49324,51ef8d39-2b94-4f9e-9620-07b6b0a913a5,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -258,9 +258,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 69292,
-          "FriendlyName": "Dev Shirt",
+          "FriendlyName": "Stanley's Jersey",
           "Tooltip": "",
-          "AvatarItemDesc": "7a730848-ab20-445d-b416-1a72cab49324,,,",
+          "AvatarItemDesc": "7b857a8c-92ad-4028-a2c2-b3c20cdab5f2,48abd952-214f-48b2-a8f1-1146f6f69aa2,d2a692e6-e1a9-4cfe-8154-10b52be7f8c8,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
