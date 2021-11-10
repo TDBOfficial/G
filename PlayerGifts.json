@@ -1,7 +1,7 @@
 {
-  "LastUpdated": "2021-07-19T00:29:14+00:00",
+  "LastUpdated": "2021-09-10T00:29:14+00:00",
   "UserGifts": {
-    "3568682976": [
+    "69420": [
       {
         "Id": 7006,
         "AvatarItemDesc": "",
@@ -9,11 +9,11 @@
         "EquipmentPrefabName": "",
         "EquipmentModificationGuid": "",
         "CurrencyType": 2,
-        "Currency": 20000,
+        "Currency": 2000000,
         "Xp": 0,
         "Level": 0,
         "GiftRarity": 50,
-        "Message": "Grown Item test",
+        "Message": "Tokens",
         "Context": 2
       }, 
       {
@@ -22,12 +22,26 @@
         "ConsumableItemDesc": "",
         "EquipmentPrefabName": "",
         "EquipmentModificationGuid": "",
-        "CurrencyType": 2,
-        "Currency": 20000,
+        "CurrencyType": 1,
+        "Currency": 2000000,
         "Xp": 0,
         "Level": 0,
         "GiftRarity": 50,
-        "Message": "Grown Item test",
+        "Message": "Tickets",
+        "Context": 2
+      }, 
+      {
+        "Id": 7006,
+        "AvatarItemDesc": "b6rLwzD4NkKV7xKn9ZYVkA,sxUE0iOSZEmezm54T7xI3Q,tlpa7195x0CkmSjpR1RArQ,",
+        "ConsumableItemDesc": "",
+        "EquipmentPrefabName": "",
+        "EquipmentModificationGuid": "",
+        "CurrencyType": 1,
+        "Currency": 2000000,
+        "Xp": 0,
+        "Level": 0,
+        "GiftRarity": 50,
+        "Message": "Faggot Hoodie",
         "Context": 2
       }
     ]
