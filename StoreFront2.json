@@ -258,12 +258,12 @@
       "GiftDrops": [
         {
           "GiftDropId": 69292,
-          "FriendlyName": "Stanley's Jersey",
+          "FriendlyName": "Gold MakerPen",
           "Tooltip": "",
-          "AvatarItemDesc": "7b857a8c-92ad-4028-a2c2-b3c20cdab5f2,48abd952-214f-48b2-a8f1-1146f6f69aa2,d2a692e6-e1a9-4cfe-8154-10b52be7f8c8,",
+          "AvatarItemDesc": "",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
-          "EquipmentModificationGuid": "",
+          "EquipmentModificationGuid": "bc4254be-60e0-4cc5-a233-6a0bd4137118",
           "Rarity": 50,
           "IsQuery": false,
           "Unique": false,
