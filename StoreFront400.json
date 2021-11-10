@@ -4283,10 +4283,10 @@
           "GiftDropId": 7006,
           "FriendlyName": "MakerPen",
           "Tooltip": "purchase for makerpen permission real no scam",
-          "AvatarItemDesc": "",
-          "ConsumableItemDesc": "",
+          "AvatarItemDesc": ",76369aef-aeda-46d2-996a-cd00594d0543,",
+          "ConsumableItemDesc": ",76369aef-aeda-46d2-996a-cd00594d0543,",
           "EquipmentPrefabName": "[MakerPen]",
-          "EquipmentModificationGuid": "",
+          "EquipmentModificationGuid": ",76369aef-aeda-46d2-996a-cd00594d0543,",
           "Rarity": 50,
           "IsQuery": false,
           "Unique": false,
@@ -4296,7 +4296,7 @@
       ]
     },
     {
-      "PurchasableItemId": 706059,
+      "PurchasableItemId": 7206,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -4307,13 +4307,13 @@
       ],
       "GiftDrops": [
         {
-          "GiftDropId": 706059,
+          "GiftDropId": 7206,
           "FriendlyName": "ArenaEmp",
           "Tooltip": "purchase for emp real no scam",
-          "AvatarItemDesc": "",
-          "ConsumableItemDesc": "",
+          "AvatarItemDesc": ",76369aef-aeda-46d2-996a-cd00594d0543,",
+          "ConsumableItemDesc": ",76369aef-aeda-46d2-996a-cd00594d0543,",
           "EquipmentPrefabName": "[Arena_EMP]",
-          "EquipmentModificationGuid": "",
+          "EquipmentModificationGuid": ",76369aef-aeda-46d2-996a-cd00594d0543,",
           "Rarity": 50,
           "IsQuery": false,
           "Unique": false,
@@ -4323,7 +4323,7 @@
       ]
     },
     {
-      "PurchasableItemId": 706049,
+      "PurchasableItemId": 7106,
       "Type": 0,
       "IsFeatured": false,
       "Prices": [
@@ -4334,13 +4334,13 @@
       ],
       "GiftDrops": [
         {
-          "GiftDropId": 706049,
+          "GiftDropId": 7106,
           "FriendlyName": "Door",
           "Tooltip": "no way real door",
-          "AvatarItemDesc": "",
-          "ConsumableItemDesc": "",
+          "AvatarItemDesc": ",76369aef-aeda-46d2-996a-cd00594d0543,",
+          "ConsumableItemDesc": ",76369aef-aeda-46d2-996a-cd00594d0543,",
           "EquipmentPrefabName": "[Sandbox_RoomDoor]",
-          "EquipmentModificationGuid": "",
+          "EquipmentModificationGuid": ",76369aef-aeda-46d2-996a-cd00594d0543,",
           "Rarity": 50,
           "IsQuery": false,
           "Unique": false,
