@@ -6,6 +6,12 @@
     "Favorited": false
   },
   {
+    "PrefabName": "[MakerPen]",
+    "ModificationGuid": "bc4254be-60e0-4cc5-a233-6a0bd4137118",
+    "UnlockedLevel": 1,
+    "Favorited": false
+  },
+  {
     "PrefabName": "[PaintballGun]",
     "ModificationGuid": "33c84c50-7c2e-4a80-ad06-79c4f20f829e",
     "UnlockedLevel": 1,
