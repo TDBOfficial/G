@@ -231,9 +231,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 600,
-          "FriendlyName": "Class of 2018",
-          "Tooltip": "Given out to 2018 players!",
-          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,5acc82f3-f226-40ae-8f54-8076ec38805e,d0a9262f-5504-46a7-bb10-7507503db58e,NxMm0sSBdUatynU16o0_Zw",
+          "FriendlyName": "#1 Birthday Shirt",
+          "Tooltip": "Happy birthday recroom!",
+          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,922f229c-124f-4f07-b4e3-19138420ca19,d0a9262f-5504-46a7-bb10-7507503db58e,ceb07e4f-50a9-4ed0-b50b-c59d92ba66b5",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -258,8 +258,8 @@
       "GiftDrops": [
         {
           "GiftDropId": 69292,
-          "FriendlyName": "Unknown",
-          "Tooltip": "!",
+          "FriendlyName": "Participation Medal (Gold)",
+          "Tooltip": "Thank you for participating in the time travel contest!",
           "AvatarItemDesc": "bf13fa1c-f991-4aaa-9402-aac109be9562,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
@@ -285,9 +285,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 1168,
-          "FriendlyName": "Class of 2019",
-          "Tooltip": "Given out to 2019 players!",
-          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,5acc82f3-f226-40ae-8f54-8076ec38805e,d0a9262f-5504-46a7-bb10-7507503db58e,br9hzhDoZUmIevgl7SJkmg",
+          "FriendlyName": "#1 Birthday Shirt (Gold)",
+          "Tooltip": "Happy birthday recroom!",
+          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,f72a6b0b-0296-4b9a-95c2-6cf624582ce8,d0a9262f-5504-46a7-bb10-7507503db58e,ceb07e4f-50a9-4ed0-b50b-c59d92ba66b5",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
