@@ -8,8 +8,8 @@
       "IsFeatured": false,
       "Prices": [
         {
-          "CurrencyType": 2,
-          "Price": 1
+          "CurrencyType": 1,
+          "Price": 0
         }
       ],
       "GiftDrops": [
@@ -35,8 +35,8 @@
       "IsFeatured": false,
       "Prices": [
         {
-          "CurrencyType": 2,
-          "Price": 1
+          "CurrencyType": 1,
+          "Price": 0
         }
       ],
       "GiftDrops": [
@@ -62,8 +62,8 @@
       "IsFeatured": false,
       "Prices": [
         {
-          "CurrencyType": 2,
-          "Price": 1
+          "CurrencyType": 1,
+          "Price": 0
         }
       ],
       "GiftDrops": [
@@ -89,8 +89,8 @@
       "IsFeatured": false,
       "Prices": [
         {
-          "CurrencyType": 2,
-          "Price": 1
+          "CurrencyType": 1,
+          "Price": 0
         }
       ],
       "GiftDrops": [
@@ -98,7 +98,7 @@
           "GiftDropId": 89,
           "FriendlyName": "Cyber Junk City Shirt",
           "Tooltip": "",
-          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,nLRxEIBhUkyQsfrk3nzsDA,0440f08f-ef1d-49d8-942b-523056e8bb45,n4hqSCv9OUewI30KnbPhFw",
+          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,815138e6-b0dc-459c-9538-20f5bbd37d6b,0440f08f-ef1d-49d8-942b-523056e8bb45,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -116,8 +116,8 @@
       "IsFeatured": false,
       "Prices": [
         {
-          "CurrencyType": 2,
-          "Price": 1
+          "CurrencyType": 1,
+          "Price": 0
         }
       ],
       "GiftDrops": [
@@ -143,8 +143,8 @@
       "IsFeatured": false,
       "Prices": [
         {
-          "CurrencyType": 2,
-          "Price": 1
+          "CurrencyType": 1,
+          "Price": 0
         }
       ],
       "GiftDrops": [
@@ -170,8 +170,8 @@
       "IsFeatured": false,
       "Prices": [
         {
-          "CurrencyType": 2,
-          "Price": 1
+          "CurrencyType": 1,
+          "Price": 0
         }
       ],
       "GiftDrops": [
@@ -197,8 +197,8 @@
       "IsFeatured": false,
       "Prices": [
         {
-          "CurrencyType": 2,
-          "Price": 1
+          "CurrencyType": 1,
+          "Price": 0
         }
       ],
       "GiftDrops": [
