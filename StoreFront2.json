@@ -16,7 +16,7 @@
         {
           "GiftDropId": 613,
           "FriendlyName": "Bishop Hair",
-          "Tooltip": "",
+          "Tooltip": "Bishop Hair",
           "AvatarItemDesc": "b861e5f3-fc6d-43b3-9861-c1b45cb493a8,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
@@ -43,7 +43,7 @@
         {
           "GiftDropId": 614,
           "FriendlyName": "Saija Gloves",
-          "Tooltip": "",
+          "Tooltip": "Saija Gloves",
           "AvatarItemDesc": "50c9c6f8-2963-4ef3-95d5-e999a898269f,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
@@ -70,7 +70,7 @@
         {
           "GiftDropId": 615,
           "FriendlyName": "Bishop Gloves",
-          "Tooltip": "",
+          "Tooltip": "Bishop Gloves",
           "AvatarItemDesc": "abc25091-ed5f-4c72-9364-fffeef1bc239,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
@@ -97,7 +97,7 @@
         {
           "GiftDropId": 1163,
           "FriendlyName": "Saija Helmet",
-          "Tooltip": "",
+          "Tooltip": "Saija Helmet",
           "AvatarItemDesc": "274cb9b2-2f59-47ea-9a8d-a5b656d148c6,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
@@ -124,7 +124,7 @@
         {
           "GiftDropId": 689,
           "FriendlyName": "Bishop Attire",
-          "Tooltip": "",
+          "Tooltip": "Bishop Hair",
           "AvatarItemDesc": "6930ce13-4be4-4ab9-9817-667bd261ffc3,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
@@ -151,7 +151,7 @@
         {
           "GiftDropId": 1166,
           "FriendlyName": "Saija Attire",
-          "Tooltip": "",
+          "Tooltip": "Saija Shirt",
           "AvatarItemDesc": "2c679f89-c76e-4cfb-94e9-448c8fd44d55,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
@@ -178,7 +178,7 @@
         {
           "GiftDropId": 1166,
           "FriendlyName": "Black Hat",
-          "Tooltip": "",
+          "Tooltip": "black people only!!",
           "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,K3NCuD1S506HFmkIMM_2Lw,P12CUkIg8EuFihGQsvPlxg,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
@@ -204,9 +204,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 717,
-          "FriendlyName": "Technical Hoodie (Gold)",
-          "Tooltip": "",
-          "AvatarItemDesc": "b6rLwzD4NkKV7xKn9ZYVkA,VbKerpCLX06xLzsiyh2ASQ,c32679c0-4ecd-4a0a-bea3-6fadbd8dfda2,",
+          "FriendlyName": "Gribbly Hoodie",
+          "Tooltip": "die",
+          "AvatarItemDesc": "b6rLwzD4NkKV7xKn9ZYVkA,D_Xmo0rOzkS-kgq1CYXt3g,tnCJp2eDI0SwjVfJMhk3LQ,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -231,9 +231,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 600,
-          "FriendlyName": "White Hat",
-          "Tooltip": "",
-          "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,8XajS2adOEOqzqnLy6-zcQ,P12CUkIg8EuFihGQsvPlxg,",
+          "FriendlyName": "TwinkyShover Hoodie",
+          "Tooltip": "''Its the gay shirt'' - Krocost 2021",
+          "AvatarItemDesc": "b6rLwzD4NkKV7xKn9ZYVkA,sxUE0iOSZEmezm54T7xI3Q,tlpa7195x0CkmSjpR1RArQ,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -286,7 +286,7 @@
         {
           "GiftDropId": 1168,
           "FriendlyName": "Technical Hoodie",
-          "Tooltip": "",
+          "Tooltip": "Gamers Only",
           "AvatarItemDesc": "b6rLwzD4NkKV7xKn9ZYVkA,4111d918-d272-4102-a7fa-5eec4b562762,c32679c0-4ecd-4a0a-bea3-6fadbd8dfda2,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
@@ -313,7 +313,7 @@
         {
           "GiftDropId": 686,
           "FriendlyName": "Class Of 2016?",
-          "Tooltip": "",
+          "Tooltip": "2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but 2017 but 2016 but how are you reading this",
           "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,815138e6-b0dc-459c-9538-20f5bbd37d6b,d0a9262f-5504-46a7-bb10-7507503db58e,167ba0d4-4fac-4143-b5ae-1dbd8e02dc76",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
