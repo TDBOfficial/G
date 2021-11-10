@@ -3482,7 +3482,7 @@
           "Unique": false,
           "Level": 1,
           "Context": 100010
-        }
+        } 
       ]
     },
     {
@@ -4282,11 +4282,65 @@
         {
           "GiftDropId": 7006,
           "FriendlyName": "MakerPen",
-          "Tooltip": "test 1",
-          "AvatarItemDesc": ",79090a4b-e191-4788-9210-88a7bdf6d828",
-          "ConsumableItemDesc": ",79090a4b-e191-4788-9210-88a7bdf6d828",
+          "Tooltip": "purchase for makerpen permission real no scam",
+          "AvatarItemDesc": "",
+          "ConsumableItemDesc": "",
           "EquipmentPrefabName": "[MakerPen]",
-          "EquipmentModificationGuid": ",79090a4b-e191-4788-9210-88a7bdf6d828",
+          "EquipmentModificationGuid": "",
+          "Rarity": 50,
+          "IsQuery": false,
+          "Unique": false,
+          "Level": 1,
+          "Context": 100000
+        }
+      ]
+    },
+    {
+      "PurchasableItemId": 706059,
+      "Type": 0,
+      "IsFeatured": false,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 50
+        }
+      ],
+      "GiftDrops": [
+        {
+          "GiftDropId": 706059,
+          "FriendlyName": "ArenaEmp",
+          "Tooltip": "purchase for emp real no scam",
+          "AvatarItemDesc": "",
+          "ConsumableItemDesc": "",
+          "EquipmentPrefabName": "[Arena_EMP]",
+          "EquipmentModificationGuid": "",
+          "Rarity": 50,
+          "IsQuery": false,
+          "Unique": false,
+          "Level": 1,
+          "Context": 100000
+        }
+      ]
+    },
+    {
+      "PurchasableItemId": 706049,
+      "Type": 0,
+      "IsFeatured": false,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 50
+        }
+      ],
+      "GiftDrops": [
+        {
+          "GiftDropId": 706049,
+          "FriendlyName": "Door",
+          "Tooltip": "no way real door",
+          "AvatarItemDesc": "",
+          "ConsumableItemDesc": "",
+          "EquipmentPrefabName": "[Sandbox_RoomDoor]",
+          "EquipmentModificationGuid": "",
           "Rarity": 50,
           "IsQuery": false,
           "Unique": false,
