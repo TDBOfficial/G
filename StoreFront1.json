@@ -8,8 +8,8 @@
       "IsFeatured": false,
       "Prices": [
         {
-          "CurrencyType": 1,
-          "Price": 1000
+          "CurrencyType": 2,
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -35,8 +35,8 @@
       "IsFeatured": false,
       "Prices": [
         {
-          "CurrencyType": 1,
-          "Price": 5000
+          "CurrencyType": 2,
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -62,8 +62,8 @@
       "IsFeatured": false,
       "Prices": [
         {
-          "CurrencyType": 1,
-          "Price": 700
+          "CurrencyType": 2,
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -89,8 +89,8 @@
       "IsFeatured": false,
       "Prices": [
         {
-          "CurrencyType": 1,
-          "Price": 700
+          "CurrencyType": 2,
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -116,8 +116,8 @@
       "IsFeatured": false,
       "Prices": [
         {
-          "CurrencyType": 1,
-          "Price": 700
+          "CurrencyType": 2,
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -143,8 +143,8 @@
       "IsFeatured": false,
       "Prices": [
         {
-          "CurrencyType": 1,
-          "Price": 700
+          "CurrencyType": 2,
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -170,8 +170,8 @@
       "IsFeatured": false,
       "Prices": [
         {
-          "CurrencyType": 1,
-          "Price": 700
+          "CurrencyType": 2,
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -197,8 +197,8 @@
       "IsFeatured": false,
       "Prices": [
         {
-          "CurrencyType": 1,
-          "Price": 700
+          "CurrencyType": 2,
+          "Price": 1
         }
       ],
       "GiftDrops": [
