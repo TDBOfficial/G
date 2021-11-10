@@ -16,6 +16,38 @@
         "Message": "Welcome To Lasa's Server",
         "Context": 2
       }
+    ],
+"69421": [
+      {
+        "Id": 7006,
+        "AvatarItemDesc": "",
+        "ConsumableItemDesc": "",
+        "EquipmentPrefabName": "",
+        "EquipmentModificationGuid": "",
+        "CurrencyType": 1,
+        "Currency": 2000000,
+        "Xp": 2000000,
+        "Level": 0,
+        "GiftRarity": 50,
+        "Message": "my nuts burn",
+        "Context": 2
+      }
+    ],
+"69422": [
+      {
+        "Id": 7006,
+        "AvatarItemDesc": "c0e59f27-a13d-4bd9-b3b8-a38a360f649b,9ad37173-e640-4b9e-a474-716d482b73d2,f88178b8-b204-4fa5-9dfd-6e438bf1e247,",
+        "ConsumableItemDesc": "",
+        "EquipmentPrefabName": "",
+        "EquipmentModificationGuid": "",
+        "CurrencyType": 1,
+        "Currency": 2000000,
+        "Xp": 2000000,
+        "Level": 0,
+        "GiftRarity": 50,
+        "Message": "My pee is brown im rotting",
+        "Context": 2
+      }
     ]
   }
 }
