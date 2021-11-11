@@ -1247,7 +1247,7 @@
     },
     "Scenes": [
       {
-        "RoomSceneId": 65,
+        "RoomSceneId": 1,
         "RoomId": 2,
         "RoomSceneLocationId": "cbad71af-0831-44d8-b8ef-69edafa841f6",
         "Name": "reccenter",
