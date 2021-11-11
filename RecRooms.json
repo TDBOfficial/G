@@ -39,6 +39,46 @@
         "Type": 2
       }
     ]
+  },"Art Testing Room": {
+    "Room": {
+      "RoomId": 23681,
+      "Name": "Name",
+      "Description": "Description",
+      "CreatorPlayerId": 69420,
+      "ImageName": "",
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsAGRoom": false,
+      "CloningAllowed": false,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId": 65,
+        "RoomId": 23682,
+        "RoomSceneLocationId": "f5e31534-fe5d-4741-af8f-38a2a8bddcb7",
+        "Name": "Home",
+        "IsSandbox": true,
+        "DataBlobName": "",
+        "MaxPlayers": 20,
+        "CanMatchmakeInto": true,
+        "DataModifiedAt": "2021-09-10T20:55:07.8690538-04:00"
+      }
+    ],
+    "CoOwners": [],
+    "Hosts": [],
+    "CheerCount": 1,
+    "FavoriteCount": 1,
+    "VisitCount": 1,
+    "Tags": [
+      {
+        "Tag": "rro",
+        "Type": 2
+      }
+    ]
   },
   "Hangout2018": {
     "Room": {
@@ -1265,49 +1305,6 @@
     "Hosts": [
       423568671,
       1391439614
-    ],
-    "CheerCount": 1,
-    "FavoriteCount": 1,
-    "VisitCount": 1,
-    "Tags": [
-      {
-        "Tag": "rro",
-        "Type": 2
-      }
-    ]
-  },
-  "Art Testing Room": {
-    "Room": {
-      "RoomId": 2,
-      "Name": "ArtTest",
-      "Description": "this is a room description!",
-      "CreatorPlayerId": 69420,
-      "ImageName": "ActivityRecCenter.png",
-      "State": 0,
-      "Accessibility": 1,
-      "SupportsLevelVoting": false,
-      "IsAGRoom": true,
-      "CloningAllowed": false,
-      "SupportsScreens": true,
-      "SupportsWalkVR": true,
-      "SupportsTeleportVR": true
-    },
-    "Scenes": [
-      {
-        "RoomSceneId": 65,
-        "RoomId": 92353,
-        "RoomSceneLocationId": "cbad71af-0831-44d8-b8ef-69edafa841f6",
-        "Name": "reccenter",
-        "IsSandbox": false,
-        "DataBlobName": "",
-        "MaxPlayers": 20,
-        "CanMatchmakeInto": true,
-        "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
-      }
-    ],
-    "CoOwners": [
-    ],
-    "Hosts": [
     ],
     "CheerCount": 1,
     "FavoriteCount": 1,
