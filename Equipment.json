@@ -97,6 +97,18 @@
   },
   {
     "PrefabName": "[MakerPen]",
+    "ModificationGuid": "bc4254be-60e0-4cc5-a233-6a0bd4137118",
+    "UnlockedLevel": 1,
+    "Favorited": false
+  },
+  {
+    "PrefabName": "[Bucket]",
+    "ModificationGuid": "bc4254be-60e0-4cc5-a233-6a0bd4137118",
+    "UnlockedLevel": 1,
+    "Favorited": false
+  },
+  {
+    "PrefabName": "[MakerPen]",
     "ModificationGuid": "79090a4b-e191-4788-9210-88a7bdf6d828",
     "UnlockedLevel": 1,
     "Favorited": false
