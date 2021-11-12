@@ -339,6 +339,51 @@
       }
     ]
   },
+  "Bowling": {
+    "Room": {
+      "RoomId": 99,
+      "Name": "Bowling",
+      "Description": "Take turns bowling in lanes!",
+      "CreatorPlayerId": 1426390413,
+      "ImageName": "ActivityCharades.png",
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsAGRoom": true,
+      "CloningAllowed": false,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId": 99,
+        "RoomId": 99,
+        "RoomSceneLocationId": "b3f4c955-ef4e-454b-9553-18d95094026c",
+        "Name": "charades",
+        "IsSandbox": false,
+        "DataBlobName": "333832eb936c44d59407e0e7cb6bb762.room",
+        "MaxPlayers": 20,
+        "CanMatchmakeInto": true,
+        "DataModifiedAt": "2021-09-11T16:24:13.1922819+10:00"
+      }
+    ],
+    "CoOwners": [
+      1790392760
+    ],
+    "Hosts": [
+      1391439614
+    ],
+    "CheerCount": 1,
+    "FavoriteCount": 1,
+    "VisitCount": 1,
+    "Tags": [
+      {
+        "Tag": "rro",
+        "Type": 2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId": 3,
