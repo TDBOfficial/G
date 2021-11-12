@@ -142,7 +142,7 @@
       "y": 0
     },
     {
-    "guid": "421f-9249-cb1a76894a61",
+    "guid": "70d3c548a6c041339ec9a5",
     "name": "Saija_Torso_Mask_White",
     "textureName": "Saija_Torso_Mask_White.png",
     "tiling": {
@@ -155,7 +155,7 @@
     }
   },
   {
-    "guid": "4f1b-aac8-e47040b69e27",
+    "guid": "c05895252c8e448780d614",
     "name": "Saija_Helmet_Mask_White",
     "textureName": "Saija_Helmet_Mask_White.png",
     "tiling": {
@@ -168,7 +168,7 @@
     }
   },
   {
-    "guid": "4d34-9be7-ff6f0954714d",
+    "guid": "df505abc4ba44858af8603",
     "name": "Saija_Glove_Mask_White",
     "textureName": "Saija_Glove_Texture_White.png",
     "tiling": {
