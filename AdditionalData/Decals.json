@@ -13,8 +13,34 @@
     }
   },
   {
+   "guid": "TW_LhQH7vUKNrQqXC9IlOg",
+   "name": "DebuggerDecal",
+    "textureName": "DebuggerDecal.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
     "guid": "br9hzhDoZUmIevgl7SJkmg",
     "name": "Torso_Tee_ClassOf2019_Decal",
+    "textureName": "IMG-20211110-WA0087.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 1,
+      "y": 1
+    }
+  },
+  {
+    "guid": "7v26IM9P2kmVepd7ZxuXyQ",
+    "name": "retard_decal",
     "textureName": "Torso_Tee_ClassOf2019_Decal.png",
     "tiling": {
       "x": 1,
