@@ -25,6 +25,17 @@
       "y": 1
     }
   },
+  "offset": {
+      "x": 1,
+      "y": 1
+    },{
+    "guid": "7603b861-0c7b-42fd-869a-d06fb4aea5fa",
+    "name": "yougetnobitches",
+    "textureName": "IMG-20211110-WA0087.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
   {
     "guid": "PIHHdG5fvU-7xQWKQ0DreA",
     "name": "FuckaYOU!",
