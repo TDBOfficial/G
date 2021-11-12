@@ -80,7 +80,7 @@
   {
     "PrefabName": "[PaintBallRifleScoped]",
     "ModificationGuid": "d906709c-e08e-4273-8ba1-e072e0d25957",
-    "UnlockedLevel": 1,
+    "UnlockedLevel": 1,s
     "Favorited": false
   },
   {
@@ -97,13 +97,25 @@
   },
   {
     "PrefabName": "[MakerPen]",
-    "ModificationGuid": "bc4254be-60e0-4cc5-a233-6a0bd4137118",
+    "ModificationGuid": "9d2a3618-12b3-4ca0-be59-ed15d7926d77",
+    "UnlockedLevel": 1,
+    "Favorited": false
+  },
+  {
+    "PrefabName": "[Basketball]",
+    "ModificationGuid": "9d2a3618-12b3-4ca0-be59-ed15d7926d77",
+    "UnlockedLevel": 1,
+    "Favorited": false
+  },
+  {
+    "PrefabName": "[Quest_SciFi_Shotgun]",
+    "ModificationGuid": "9d2a3618-12b3-4ca0-be59-ed15d7926d77",
     "UnlockedLevel": 1,
     "Favorited": false
   },
   {
     "PrefabName": "[Bucket]",
-    "ModificationGuid": "bc4254be-60e0-4cc5-a233-6a0bd4137118",
+    "ModificationGuid": "9d2a3618-12b3-4ca0-be59-ed15d7926d77",
     "UnlockedLevel": 1,
     "Favorited": false
   },
