@@ -4,8 +4,8 @@
     "name": "Torso_MaleTee_Devil_Texture",
     "textureName": "Torso_MaleTee_Devil_Texture.png",
     "tiling": {
-      "x": 0.5,
-      "y": 0.5
+      "x": 3,
+      "y": 3
     },
     "offset": {
       "x": 0,
