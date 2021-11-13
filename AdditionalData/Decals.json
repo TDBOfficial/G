@@ -56,12 +56,12 @@
     "name": "Nothing_Decal",
     "textureName": "Nothing_Decal.png",
     "tiling": {
-      "x": 1,
-      "y": 1
+      "x": 0,
+      "y": 0
     },
     "offset": {
-      "x": 1,
-      "y": 1
+      "x": 0,
+      "y": 0
     }
   },
   {
