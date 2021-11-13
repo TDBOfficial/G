@@ -140,6 +140,44 @@
     "offset": {
       "x": 0,
       "y": 0
+    },
+  {
+    "guid": "c375d4af-57d9-4d01-b8b4-a4c165abbc2c",
+    "name": "Saija_Torso_Mask_White",
+    "textureName": "Saija_Torso_Mask_White.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 1,
+      "y": 1
+    }
+  },
+  {
+    "guid": "4eda9a3e-2301-4e19-a170-46e2db76dac6",
+    "name": "Saija_Helmet_Mask_White",
+    "textureName": "Saija_Helmet_Mask_White.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "70ebf777-89ee-4c6a-95a8-79e32bede3a0",
+    "name": "Saija_Glove_Mask_White",
+    "textureName": "Saija_Glove_Texture_White.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
     }
   }
 ]
