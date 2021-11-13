@@ -52,6 +52,19 @@
     }
   },
   {
+    "guid": "3cd1f8f0-6b4d-42c3-9f01-096ab1f10ace",
+    "name": "Nothing_Decal",
+    "textureName": "Nothing_Decal.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 1,
+      "y": 1
+    }
+  },
+  {
     "guid": "7v26IM9P2kmVepd7ZxuXyQ",
     "name": "retard_decal",
     "textureName": "IMG-20211110-WA0087.png",
