@@ -205,8 +205,8 @@
         {
           "GiftDropId": 717,
           "FriendlyName": "Poofy Dress (Grey and Orange)",
-          "Tooltip": "Happy Halloween!",
-          "AvatarItemDesc": "a302741d-313b-4682-82e5-ac76764e662c,3e3f32ea-766e-4a8d-83a0-afe13d5fbe98,a302741d-313b-4682-82e5-ac76764e662c,",
+          "Tooltip": "My first render",
+          "AvatarItemDesc": "a302741d-313b-4682-82e5-ac76764e662c,a4ce2b53-4341-4e07-b72b-e90f20d78f0e,a302741d-313b-4682-82e5-ac76764e662c,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -231,9 +231,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 600,
-          "FriendlyName": "Hockey Jersey (Grey And Orange)",
-          "Tooltip": "Happy Halloween!",
-          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,3e3f32ea-766e-4a8d-83a0-afe13d5fbe98,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
+          "FriendlyName": "Hockey Jersey (RGB)",
+          "Tooltip": "My first render",
+          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,a4ce2b53-4341-4e07-b72b-e90f20d78f0e,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
