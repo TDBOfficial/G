@@ -1,22 +1,6 @@
 {
   "LastUpdated": "2021-09-10T00:29:14+00:00",
   "UserGifts": {
-    "1426390413": [
-      {
-        "Id": 7006,
-        "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,dce62fba-a93e-4a70-82e0-f43430298a5a,f5edd29f-f036-436d-9f7d-3a3681e36745,",
-        "ConsumableItemDesc": "",
-        "EquipmentPrefabName": "",
-        "EquipmentModificationGuid": "",
-        "CurrencyType": 2,
-        "Currency": 2147483,
-        "Xp": 0,
-        "Level": 0,
-        "GiftRarity": 50,
-        "Message": "Devil Tee (EXCLUSIVE)",
-        "Context": 2
-      }
-    ],
     "69420": [
       {
         "Id": 7006,
