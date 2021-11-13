@@ -703,6 +703,52 @@
    },
    "AddDirt":true
 },{
+   "name":"angel2015",
+   "guid":"5cc72438-b640-43eb-a78c-db2e6fbf0f03",
+   "ColorBase":{
+      "r":1,
+      "g":1,
+      "b":1,
+      "a":1.0
+   },
+   "ColorR": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "ColorG": {
+      "r": 1.0,
+      "g": 0.246201,
+      "b": 0,
+      "a": 0
+    },
+    "ColorB": {
+      "r": 1.0,
+      "g": 0.246201,
+      "b": 0,
+      "a": 0
+    },
+   "ColorDirt":{
+      "r":0.0,
+      "g":0.0,
+      "b":0.0,
+      "a":0.0
+   },
+   "ColorDecal":{
+      "r":0,
+      "g":0,
+      "b":0,
+      "a":0
+   },
+   "ColorEmission":{
+      "r": 0.708376,
+      "g": 0.708376,
+      "b": 0,
+      "a": 1.0
+   },
+   "AddDirt":true
+},{
    "name":"20189_Shirt_Swatch",
    "guid":"5acc82f3-f226-40ae-8f54-8076ec38805e",
    "ColorBase": {
