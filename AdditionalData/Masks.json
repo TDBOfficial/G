@@ -1,5 +1,18 @@
 [
   {
+    "guid": "f5edd29f-f036-436d-9f7d-3a3681e36745",
+    "name": "Torso_MaleTee_Devil_Texture",
+    "textureName": "Torso_MaleTee_Devil_Texture.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
     "guid": "c375d4af-57d9-4d01-b8b4-a4c165abbc2c",
     "name": "Saija_Torso_Mask_White",
     "textureName": "Saija_Torso_Mask_White.png",
