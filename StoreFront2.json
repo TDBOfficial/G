@@ -285,9 +285,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 1168,
-          "FriendlyName": "Poofy Dress",
-          "Tooltip": "idk",
-          "AvatarItemDesc": "a302741d-313b-4682-82e5-ac76764e662c,64850553-cdfe-455a-ac00-dafbe63d613e,a302741d-313b-4682-82e5-ac76764e662c,",
+          "FriendlyName": "Bishop Gloves (Black)",
+          "Tooltip": "Bishop Gloves (Black)",
+          "AvatarItemDesc": "abc25091-ed5f-4c72-9364-fffeef1bc239,,5fddd090-ce4f-409c-83db-d736f8d4b095,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -312,9 +312,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 686,
-          "FriendlyName": "Black Bishop",
-          "Tooltip": "Black Bishop",
-          "AvatarItemDesc": "6930ce13-4be4-4ab9-9817-667bd261ffc3,ab198a35-bdf0-4067-83de-3401549e3dc8,,",
+          "FriendlyName": "Bishop Shirt (Black)",
+          "Tooltip": "Bishop Shirt (Black)",
+          "AvatarItemDesc": "6930ce13-4be4-4ab9-9817-667bd261ffc3,,ab198a35-bdf0-4067-83de-3401549e3dc8,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
