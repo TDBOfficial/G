@@ -40,6 +40,47 @@
       }
     ]
   },
+  "calibration": {
+    "Room": {
+      "RoomId": 1221411,
+      "Name": "calibration",
+      "Description": "",
+      "CreatorPlayerId": 709784651,
+      "ImageName": "ActivityHangout2018.jpg",
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsAGRoom": false,
+      "CloningAllowed": false,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId": 1,
+        "RoomId": 1221411,
+        "RoomSceneLocationId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name": "Home",
+        "IsSandbox": true,
+        "DataBlobName": "",
+        "MaxPlayers": 20,
+        "CanMatchmakeInto": true,
+        "DataModifiedAt": "2021-05-23T20:55:07.8690538-04:00"
+      }
+    ],
+    "CoOwners": [],
+    "Hosts": [],
+    "CheerCount": 1,
+    "FavoriteCount": 1,
+    "VisitCount": 1,
+    "Tags": [
+      {
+        "Tag": "rro",
+        "Type": 2
+      }
+    ]
+  },
   "Hangout2018": {
     "Room": {
       "RoomId": 1451592,
