@@ -1,5 +1,52 @@
 [
   {
+    "name": "Mobster_Sexy_Swatch",
+    "guid": "de2858e4-7b1f-41f6-b9ef-081613728446",
+    "ColorBase": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "ColorR": {
+      "r": 1,
+      "g": 1,
+      "b": 0.597202,
+      "a": 1
+    },
+    "ColorG": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    },
+    "ColorB": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    },
+    "ColorDirt": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    },
+    "ColorDecal": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0
+    },
+    "ColorEmission": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "AddDirt": true
+  },
+  {
     "name": "Hoodie_Trans_Swatch",
     "guid": "D_Xmo0rOzkS-kgq1CYXt3g",
     "ColorBase": {
