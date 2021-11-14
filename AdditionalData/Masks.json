@@ -1,5 +1,18 @@
 [
   {
+    "guid": "8c06d780-1b3a-446e-bb89-87c8b8746609",
+    "name": "Hoodie_Virgin_tex",
+    "textureName": "Hoodie_Virgin_tex.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
     "guid": "f86b19a5-40f6-49d1-ac7f-828e1779ed64",
     "name": "2015_ClassOf",
     "textureName": "2015_ClassOf.png",
