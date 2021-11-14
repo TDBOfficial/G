@@ -1,5 +1,31 @@
 [
   {
+    "guid": "4dcf2775-d58f-4ee4-a259-5c5cfe5ba613",
+    "name": "MobsterWrist_tex_Sexy",
+    "textureName": "MobsterWrist_tex_Sexy.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "652fd223-2a14-47d8-a5e1-23f0dffcdd6c",
+    "name": "MobsterTorso_tex_Sexy",
+    "textureName": "MobsterTorso_tex_Sexy.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
     "guid": "5fddd090-ce4f-409c-83db-d736f8d4b095",
     "name": "BlackBishopGloves_Tex",
     "textureName": "BlackBishopGloves_Tex.png",
