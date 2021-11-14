@@ -47,6 +47,53 @@
     "AddDirt": true
   },
   {
+    "name": "Hoodie_Virgin_Swatch",
+    "guid": "70faaea1-8650-4738-9f3f-c6170a6c01e9",
+    "ColorBase": {
+      "r": 0.8018868,
+      "g": 0.8018868,
+      "b": 0.8018868,
+      "a": 1
+    },
+    "ColorR": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "ColorG": {
+      "r": 0.007193,
+      "g": 0.007193,
+      "b": 0.007193,
+      "a": 1
+    },
+    "ColorB": {
+      "r": 0.007193,
+      "g": 0.007193,
+      "b": 0.007193,
+      "a": 1
+    },
+    "ColorDirt": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0.0156862754
+    },
+    "ColorDecal": {
+      "r": 0.007193,
+      "g": 0.007193,
+      "b": 0.007193,
+      "a": 0
+    },
+    "ColorEmission": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "AddDirt": true
+  },
+  {
     "name": "Hoodie_Technical_Swatch",
     "guid": "4111d918-d272-4102-a7fa-5eec4b562762",
     "ColorBase": {
