@@ -1,5 +1,31 @@
 [
   {
+    "guid": "5fddd090-ce4f-409c-83db-d736f8d4b095",
+    "name": "BlackBishopGloves_Tex",
+    "textureName": "BlackBishopGloves_Tex.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "ab198a35-bdf0-4067-83de-3401549e3dc8",
+    "name": "BlackBishop_Tex",
+    "textureName": "BlackBishop_Tex.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
     "guid": "8c06d780-1b3a-446e-bb89-87c8b8746609",
     "name": "Hoodie_Virgin_tex",
     "textureName": "Hoodie_Virgin_tex.png",
