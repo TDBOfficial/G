@@ -24,13 +24,13 @@
     "Favorited": false
   },
   {
-    "PrefabName": "[Quest_SciFi_Pistol]",
+    "PrefabName": "[Quest_Goblin_Wand]",
     "ModificationGuid": "bc4254be-60e0-4cc5-a233-6a0bd4137118",
     "UnlockedLevel": 1,
     "Favorited": false
   },
   {
-    "PrefabName": "[Quest_SciFi_RailGun]",
+    "PrefabName": "[ShareCamera]",
     "ModificationGuid": "bc4254be-60e0-4cc5-a233-6a0bd4137118",
     "UnlockedLevel": 1,
     "Favorited": false
@@ -74,6 +74,24 @@
   {
     "PrefabName": "[PaintballGrenadeLauncher]",
     "ModificationGuid": "502f40c3-1c00-4c3f-bfc7-c897df8af37e",
+    "UnlockedLevel": 1,
+    "Favorited": false
+  },
+  {
+    "PrefabName": "[PaintballGrenadeLauncher]",
+    "ModificationGuid": "bc4254be-60e0-4cc5-a233-6a0bd4137118",
+    "UnlockedLevel": 1,
+    "Favorited": false
+  },
+  {
+    "PrefabName": "[ShareCamera]",
+    "ModificationGuid": "bc4254be-60e0-4cc5-a233-6a0bd4137118",
+    "UnlockedLevel": 1,
+    "Favorited": false
+  },
+  {
+    "PrefabName": "[Quest_SciFi_Shotgun]",
+    "ModificationGuid": "bc4254be-60e0-4cc5-a233-6a0bd4137118",
     "UnlockedLevel": 1,
     "Favorited": false
   },
