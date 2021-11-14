@@ -204,7 +204,7 @@
       "GiftDrops": [
         {
           "GiftDropId": 717,
-          "FriendlyName": "Poofy Dress (Grey and Orange)",
+          "FriendlyName": "Poofy Dress (RGB)",
           "Tooltip": "My first render",
           "AvatarItemDesc": "a302741d-313b-4682-82e5-ac76764e662c,a4ce2b53-4341-4e07-b72b-e90f20d78f0e,a302741d-313b-4682-82e5-ac76764e662c,",
           "ConsumableItemDesc": "",
@@ -312,9 +312,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 686,
-          "FriendlyName": "Virgin Hoodie",
-          "Tooltip": "why is no-one talking to me anymore after i wear this",
-          "AvatarItemDesc": "b6rLwzD4NkKV7xKn9ZYVkA,,8c06d780-1b3a-446e-bb89-87c8b8746609,10b9cace-17ce-4813-a533-b2cd587f71cb",
+          "FriendlyName": "Black Bishop",
+          "Tooltip": "Black Bishop",
+          "AvatarItemDesc": "6930ce13-4be4-4ab9-9817-667bd261ffc3,ab198a35-bdf0-4067-83de-3401549e3dc8,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
