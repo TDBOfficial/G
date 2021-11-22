@@ -1,5 +1,52 @@
 [
   {
+    "name": "Dev_Visor_Swatch",
+    "guid": "67b4e87d-c008-43d5-9d3f-ba04ff5dcb79",
+    "ColorBase": {
+      "r": 0.025393,
+      "g": 0.025393,
+      "b": 0.025393,
+      "a": 1
+    },
+    "ColorR": {
+      "r": 0.685956,
+      "g": 0.685956,
+      "b": 0.685956,
+      "a": 1
+    },
+    "ColorG": {
+      "r": 1.0,
+      "g": 0.084376,
+      "b": 0,
+      "a": 1
+    },
+    "ColorB": {
+      "r": 1.0,
+      "g": 0.084376,
+      "b": 0,
+      "a": 1
+    },
+    "ColorDirt": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    },
+    "ColorDecal": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0
+    },
+    "ColorEmission": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "AddDirt": false
+  },
+  {
     "name": "Mobster_Sexy_Swatch",
     "guid": "de2858e4-7b1f-41f6-b9ef-081613728446",
     "ColorBase": {
