@@ -1276,11 +1276,11 @@
       }
     ]
   },
-  "BetaRecCenterTest": {
+  "RecordingStudio": {
     "Room": {
       "RoomId": 2,
-      "Name": "BetaRecCenter",
-      "Description": "A social hub to meet and mingle with friends new and old.",
+      "Name": "RecordingStudio",
+      "Description": "A place to record your movies!",
       "CreatorPlayerId": 1426390413,
       "ImageName": "ActivityRecCenter.png",
       "State": 0,
@@ -1296,8 +1296,49 @@
       {
         "RoomSceneId": 1,
         "RoomId": 203846,
-        "RoomSceneLocationId": "ca132ed0-22fe-49c8-8b76-1589ea7fcee7",
-        "Name": "betareccenter",
+        "RoomSceneLocationId": "a95c349c-0f96-4c2d-a4c8-4969ffa8ea44",
+        "Name": "RecordingStudio",
+        "IsSandbox": false,
+        "DataBlobName": "",
+        "MaxPlayers": 20,
+        "CanMatchmakeInto": true,
+        "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
+      }
+    ],
+    "CoOwners": [],
+    "Hosts": [],
+    "CheerCount": 1,
+    "FavoriteCount": 1,
+    "VisitCount": 1,
+    "Tags": [
+      {
+        "Tag": "rro",
+        "Type": 2
+      }
+    ]
+  },
+  "Calibration": {
+    "Room": {
+      "RoomId": 2,
+      "Name": "Calibration",
+      "Description": "Re calibrate your headset here!",
+      "CreatorPlayerId": 1426390413,
+      "ImageName": "ActivityRecCenter.png",
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsAGRoom": true,
+      "CloningAllowed": false,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId": 1,
+        "RoomId": 203846,
+        "RoomSceneLocationId": "30040e05-b7b9-9f44-eb08-b9f154d2ecfc",
+        "Name": "RecordingStudio",
         "IsSandbox": false,
         "DataBlobName": "",
         "MaxPlayers": 20,
@@ -1337,7 +1378,7 @@
       {
         "RoomSceneId": 80,
         "RoomId": 4424,
-        "RoomSceneLocationId": "ca132ed0-22fe-49c8-8b76-1589ea7fcee7",
+        "RoomSceneLocationId": "ae929543-9a07-41d5-8ee9-dbbee8c36800",
         "Name": "BowlingAlley",
         "IsSandbox": false,
         "DataBlobName": "",
