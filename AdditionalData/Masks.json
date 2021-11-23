@@ -1,5 +1,31 @@
 [
   {
+    "guid": "a3d90e03-2273-41dd-b672-9bd5a1db82bf",
+    "name": "MobsterHat_tex_Dev",
+    "textureName": "MobsterHat_tex_Dev.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "b22955e4-9c87-45f4-a006-e4cddf4ca29b",
+    "name": "MobsterTorso_tex_Dev",
+    "textureName": "MobsterTorso_tex_Dev.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
     "guid": "4dcf2775-d58f-4ee4-a259-5c5cfe5ba613",
     "name": "MobsterWrist_tex_Sexy",
     "textureName": "MobsterWrist_tex_Sexy.png",
