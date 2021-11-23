@@ -1276,54 +1276,13 @@
       }
     ]
   },
-  "AnimationRecordingStudio": {
-    "Room": {
-      "RoomId": 666999,
-      "Name": "AnimationRecordingStudio",
-      "Description": "A place to record your movies!",
-      "CreatorPlayerId": 1426390413,
-      "ImageName": "ActivityRecCenter.png",
-      "State": 0,
-      "Accessibility": 1,
-      "SupportsLevelVoting": false,
-      "IsAGRoom": true,
-      "CloningAllowed": false,
-      "SupportsScreens": true,
-      "SupportsWalkVR": true,
-      "SupportsTeleportVR": true
-    },
-    "Scenes": [
-      {
-        "RoomSceneId": 1,
-        "RoomId": 667000,
-        "RoomSceneLocationId": "a95c349c-0f96-4c2d-a4c8-4969ffa8ea44",
-        "Name": "RecordingStudio",
-        "IsSandbox": true,
-        "DataBlobName": "",
-        "MaxPlayers": 20,
-        "CanMatchmakeInto": true,
-        "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
-      }
-    ],
-    "CoOwners": [],
-    "Hosts": [],
-    "CheerCount": 1,
-    "FavoriteCount": 1,
-    "VisitCount": 1,
-    "Tags": [
-      {
-        "Tag": "rro",
-        "Type": 2
-      }
-    ]
-  },
-  "Calibration": {
+  "2021Dorm": {
     "Room": {
       "RoomId": 96240,
-      "Name": "Calibration",
-      "Description": "Re calibrate your headset here!",
+      "Name": "2021Dorm",
+      "Description": "Leap forward in time and view the current day dormroom!",
       "CreatorPlayerId": 1426390413,
-      "ImageName": "ActivityRecCenter.png",
+      "ImageName": "Activity2021Dorm.png",
       "State": 0,
       "Accessibility": 1,
       "SupportsLevelVoting": false,
@@ -1338,29 +1297,7 @@
         "RoomSceneId": 1,
         "RoomId": 96241,
         "RoomSceneLocationId": "30040e05-b7b9-9f44-eb08-b9f154d2ecfc",
-        "Name": "Calibration",
-        "IsSandbox": true,
-        "DataBlobName": "",
-        "MaxPlayers": 20,
-        "CanMatchmakeInto": true,
-        "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
-      },
-      {
-        "RoomSceneId": 2,
-        "RoomId": 96242,
-        "RoomSceneLocationId": "fe66923e-4034-4ec4-4bca-11a973bf5515",
-        "Name": "Home",
-        "IsSandbox": true,
-        "DataBlobName": "",
-        "MaxPlayers": 20,
-        "CanMatchmakeInto": true,
-        "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
-      },
-      {
-        "RoomSceneId": 3,
-        "RoomId": 96243,
-        "RoomSceneLocationId": "f5fbd9c9-e853-4036-9d48-5f68e861af04",
-        "Name": "Home",
+        "Name": "2021Dorm",
         "IsSandbox": true,
         "DataBlobName": "",
         "MaxPlayers": 20,
