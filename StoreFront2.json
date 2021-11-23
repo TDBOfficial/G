@@ -231,9 +231,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 600,
-          "FriendlyName": "Hockey Jersey (RGB)",
+          "FriendlyName": "IDK",
           "Tooltip": "My first render",
-          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,a4ce2b53-4341-4e07-b72b-e90f20d78f0e,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
+          "AvatarItemDesc": "b89be768-a169-4b24-8022-751e7b817865,FwiizGjYnUaM1VJ53R1cCQS,uB4gFxfrh0W5OtkmZdFN1Q,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -258,9 +258,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 69292,
-          "FriendlyName": "Participation Medal (Gold)",
-          "Tooltip": "Thank you for participating in the time travel contest!",
-          "AvatarItemDesc": "bf13fa1c-f991-4aaa-9402-aac109be9562,,,",
+          "FriendlyName": "Game Vest",
+          "Tooltip": "The perfect gear for paintbald!",
+          "AvatarItemDesc": "24b8b757-4168-4b3b-ba11-46f29d19044d,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
