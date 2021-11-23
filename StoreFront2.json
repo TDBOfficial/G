@@ -15,9 +15,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 613,
-          "FriendlyName": "Knight Cape (Black)",
-          "Tooltip": "Knight Cape (Black)",
-          "AvatarItemDesc": "2e5afc40-7e25-418c-8b1b-316b8ef479a7,e1f49b74-b071-4bd1-9c4b-af36d24d45c5,15099be7-38b7-4b0b-ac13-1bacedbf5fb2,",
+          "FriendlyName": "Mobster Hat (Sexy)",
+          "Tooltip": "Mobster Hat (Sexy)",
+          "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,67b4e87d-c008-43d5-9d3f-ba04ff5dcb79,a3d90e03-2273-41dd-b672-9bd5a1db82bf,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -42,9 +42,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 614,
-          "FriendlyName": "Space Visor (Dev)",
-          "Tooltip": "Space Visor (Dev)",
-          "AvatarItemDesc": "123de433-a005-4994-8a11-d2d84ad66b11,67b4e87d-c008-43d5-9d3f-ba04ff5dcb79,4e378419-d043-4e86-ad0e-66288ac21cf4,",
+          "FriendlyName": "Mobster Suit (Dev)",
+          "Tooltip": "Mobster Suit (Dev)",
+          "AvatarItemDesc": "4308da04-af84-40bb-845a-7a9e1a2726ec,67b4e87d-c008-43d5-9d3f-ba04ff5dcb79,b22955e4-9c87-45f4-a006-e4cddf4ca29b,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -69,9 +69,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 615,
-          "FriendlyName": "Mobster Cuffs (Sexy)",
-          "Tooltip": "Mobster Cuffs (Sexy)",
-          "AvatarItemDesc": "08d56627-4500-4724-8692-a23c96ddb3ec,de2858e4-7b1f-41f6-b9ef-081613728446,4dcf2775-d58f-4ee4-a259-5c5cfe5ba613,",
+          "FriendlyName": "Mobster Cuffs (Dev)",
+          "Tooltip": "Mobster Cuffs (Dev)",
+          "AvatarItemDesc": "08d56627-4500-4724-8692-a23c96ddb3ec,67b4e87d-c008-43d5-9d3f-ba04ff5dcb79,4dcf2775-d58f-4ee4-a259-5c5cfe5ba613,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
