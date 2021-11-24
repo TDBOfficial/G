@@ -15,8 +15,8 @@
       "GiftDrops": [
         {
           "GiftDropId": 613,
-          "FriendlyName": "Mobster Hat (Sexy)",
-          "Tooltip": "Mobster Hat (Sexy)",
+          "FriendlyName": "Mobster Hat (Dev)",
+          "Tooltip": "Mobster Hat (Dev)",
           "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,67b4e87d-c008-43d5-9d3f-ba04ff5dcb79,a3d90e03-2273-41dd-b672-9bd5a1db82bf,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
@@ -231,9 +231,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 600,
-          "FriendlyName": "IDK",
-          "Tooltip": "My first render",
-          "AvatarItemDesc": "b89be768-a169-4b24-8022-751e7b817865,FwiizGjYnUaM1VJ53R1cCQS,uB4gFxfrh0W5OtkmZdFN1Q,",
+          "FriendlyName": "Space Visor (Dev)",
+          "Tooltip": "pls work",
+          "AvatarItemDesc": "b89be768-a169-4b24-8022-751e7b817865,67b4e87d-c008-43d5-9d3f-ba04ff5dcb79,uB4gFxfrh0W5OtkmZdFN1Q,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
